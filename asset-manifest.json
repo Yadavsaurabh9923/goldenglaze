@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/goldenglaze/static/css/main.e6c13ad2.css",
+    "main.js": "/goldenglaze/static/js/main.4f5259cd.js",
+    "static/js/488.0c96b169.chunk.js": "/goldenglaze/static/js/488.0c96b169.chunk.js",
+    "index.html": "/goldenglaze/index.html",
+    "main.e6c13ad2.css.map": "/goldenglaze/static/css/main.e6c13ad2.css.map",
+    "main.4f5259cd.js.map": "/goldenglaze/static/js/main.4f5259cd.js.map",
+    "488.0c96b169.chunk.js.map": "/goldenglaze/static/js/488.0c96b169.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.4f5259cd.js"
+  ]
+}
